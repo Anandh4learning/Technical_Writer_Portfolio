@@ -4,20 +4,20 @@ Welcome to my GitHub repository showcasing my sample writings as a technical wri
 
 ## Sample Writings
 
-### Sample 1: Healthcare Management Software - Concept, Task, and Reference Topic Samples
+### Sample 1: Healthcare Management Software
 
 - **Description:** It is a medical software and I have included two concept and task topics along with a reference topic.
-- **Key Points:** [Telemedicine Integration, 
+- **Topics:** [Telemedicine Integration, 
 Drug Interaction Checker, 
 Setting Up Automated Appointment Reminders, 
 Generating Financial Reports for Revenue Analysis, and
 Glossary of Healthcare Terminology].
 - **File:** [[Healthcare Management Software](https://github.com/Anandh4learning/Technical_Writer_Portfolio/wiki/Healthcare-Management-Software-%E2%80%90-Writing-Sample-%E2%80%90-Technical-Writer)].
 
-### Sample 2: Project Management Dashboard ‐ Writing Sample ‐ Technical Writer
+### Sample 2: Project Management Dashboard
 
 - **Description:** It is a project management software and I have included two concept and task topics along with a reference topic.
-- **Key Points:** [Project Management Dashboard, 
+- **Topics:** [Project Management Dashboard, 
 Customer Relationship Management (CRM) System, 
 Configuring Email Campaign Automation, 
 Generating Sales Performance Reports, and 
@@ -26,7 +26,7 @@ Glossary of CRM Terminology].
 
 ## How to Use
 
-1. Navigate to the Wiki pages of interest.
+1. Navigate to the Wiki pages of your interest.
 2. Click on the document title to view the content.
 3. Feel free to explore and review the sample writings.
 
@@ -40,7 +40,7 @@ Feedback and contributions are welcome! If you have suggestions or improvements,
 
 ## Contact Information
 
-For inquiries, please contact [Anandha Kumar] at [anandhakumar.am@gmail.com].
+For inquiries, please contact Anandha Kumar at [anandhakumar.am@gmail.com].
 
 You can also connect with me on [LinkedIn](https://www.linkedin.com/in.anandha-kumar-4486531b) for professional networking.
 
