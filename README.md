@@ -7,8 +7,8 @@ Welcome to my GitHub repository showcasing my sample writings as a technical wri
 ### Sample 1: Healthcare Management Software
 
 - **Description:** It is a medical software and I have included two concept and task topics along with a reference topic.
-- **Topics:** [What is Telemedicine Integration?, 
-What is Drug Interaction Checker?, 
+- **Topics:** [What is Telemedicine Integration?
+What is Drug Interaction Checker?
 How to Set Up Automated Appointment Reminders?, 
 How to Generate Financial Reports for Revenue Analysis?, and 
 Glossary of Healthcare Terminology].
