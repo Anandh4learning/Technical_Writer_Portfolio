@@ -7,20 +7,20 @@ Welcome to my GitHub repository showcasing my sample writings as a technical wri
 ### Sample 1: Healthcare Management Software
 
 - **Description:** It is a medical software and I have included two concept and task topics along with a reference topic.
-- **Topics:** [Telemedicine Integration, 
-Drug Interaction Checker, 
-Setting Up Automated Appointment Reminders, 
-Generating Financial Reports for Revenue Analysis, and
+- **Topics:** [What is Telemedicine Integration?, 
+What is Drug Interaction Checker?, 
+How to Set Up Automated Appointment Reminders?, 
+How to Generate Financial Reports for Revenue Analysis?, and 
 Glossary of Healthcare Terminology].
 - **File:** [[Healthcare Management Software](https://github.com/Anandh4learning/Technical_Writer_Portfolio/wiki/Healthcare-Management-Software-%E2%80%90-Writing-Sample-%E2%80%90-Technical-Writer)].
 
 ### Sample 2: Project Management Dashboard
 
 - **Description:** It is a project management software and I have included two concept and task topics along with a reference topic.
-- **Topics:** [Project Management Dashboard, 
-Customer Relationship Management (CRM) System, 
-Configuring Email Campaign Automation, 
-Generating Sales Performance Reports, and 
+- **Topics:** [What is Project Management Dashboard?, 
+What is Customer Relationship Management (CRM) System?, 
+How to Configure Email Campaign Automation?, 
+How to Generate Sales Performance Reports?, and 
 Glossary of CRM Terminology].
 - **File:** [[Project Management Dashboard](https://github.com/Anandh4learning/Technical_Writer_Portfolio/wiki/Project-Management-Dashboard-%E2%80%90-Writing-Sample-%E2%80%90-Technical-Writer)].
 
