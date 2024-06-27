@@ -14,7 +14,13 @@ How to Generate Financial Reports for Revenue Analysis?, and
 Glossary of Healthcare Terminology].
 - **File:** [Healthcare Management Software](https://github.com/Anandh4learning/Technical_Writer_Portfolio/wiki/Healthcare-Management-Software-%E2%80%90-Writing-Sample-%E2%80%90-Technical-Writer).
 
-### Sample 2: Project Management Dashboard
+### Sample 2: How to Create a Repository on Github
+
+- **Description:** It is a task topic.
+- **Topics:** [Steps to Create a Repository].
+- **File:** [How to Create a Repository on Github](https://github.com/Anandh4learning/Technical_Writer_Portfolio/wiki/How-to-Create-a-Repository-on-Github).
+
+### Sample 3: Project Management Dashboard
 
 - **Description:** It is a project management software and I have included two concept and task topics along with a reference topic.
 - **Topics:** [What is Project Management Dashboard?, 
@@ -23,6 +29,12 @@ How to Configure Email Campaign Automation?,
 How to Generate Sales Performance Reports?, and 
 Glossary of CRM Terminology].
 - **File:** [Project Management Dashboard](https://github.com/Anandh4learning/Technical_Writer_Portfolio/wiki/Project-Management-Dashboard-%E2%80%90-Writing-Sample-%E2%80%90-Technical-Writer).
+
+### Sample 4: Release Notes
+
+- **Description:** It is a sample Release Notes.
+- **Topics:** [Release Notes - Version 1.0.0].
+- **File:** [Release Notes](https://github.com/Anandh4learning/Technical_Writer_Portfolio/wiki/Release-Notes).
 
 ## How to Use
 
