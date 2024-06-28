@@ -4,7 +4,7 @@ Welcome to my GitHub repository showcasing my sample writings as a technical wri
 
 ## Sample Writings
 
-### Sample 1: Healthcare Management Software
+### Sample: Healthcare Management Software
 
 - **Description:** It is a medical software and I have included two concept and task topics along with a reference topic.
 - **Topics:** [What is Telemedicine Integration?, 
@@ -14,13 +14,13 @@ How to Generate Financial Reports for Revenue Analysis?, and
 Glossary of Healthcare Terminology].
 - **File:** [Healthcare Management Software](https://github.com/Anandh4learning/Technical_Writer_Portfolio/wiki/Healthcare-Management-Software:-User-Guide).
 
-### Sample 2: How to Create a Repository on Github
+### Sample: How to Create a Repository on Github
 
 - **Description:** It is a task topic.
 - **Topics:** [Steps to Create a Repository].
 - **File:** [How to Create a Repository on Github](https://github.com/Anandh4learning/Technical_Writer_Portfolio/wiki/How-to-Create-a-Repository-on-Github).
 
-### Sample 3: Project Management Dashboard
+### Sample: Project Management Dashboard
 
 - **Description:** It is a project management software and I have included two concept and task topics along with a reference topic.
 - **Topics:** [What is Project Management Dashboard?, 
@@ -30,7 +30,7 @@ How to Generate Sales Performance Reports?, and
 Glossary of CRM Terminology].
 - **File:** [Project Management Dashboard](https://github.com/Anandh4learning/Technical_Writer_Portfolio/wiki/Project-Management-Dashboard:-User-Guide).
 
-### Sample 4: Release Notes
+### Sample: Release Notes
 
 - **Description:** It is a sample Release Notes.
 - **Topics:** [Release Notes - Version 1.0.0].
