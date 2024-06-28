@@ -28,7 +28,7 @@ What is Customer Relationship Management (CRM) System?,
 How to Configure Email Campaign Automation?, 
 How to Generate Sales Performance Reports?, and 
 Glossary of CRM Terminology].
-- **File:** [Project Management Dashboard](https://github.com/Anandh4learning/Technical_Writer_Portfolio/wiki/Project-Management-Dashboard-%E2%80%90-Writing-Sample-%E2%80%90-Technical-Writer).
+- **File:** [Project Management Dashboard](https://github.com/Anandh4learning/Technical_Writer_Portfolio/wiki/Project-Management-Dashboard:-User-Guide).
 
 ### Sample 4: Release Notes
 
