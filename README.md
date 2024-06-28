@@ -12,7 +12,7 @@ What is Drug Interaction Checker?,
 How to Set Up Automated Appointment Reminders?, 
 How to Generate Financial Reports for Revenue Analysis?, and 
 Glossary of Healthcare Terminology].
-- **File:** [Healthcare Management Software](https://github.com/Anandh4learning/Technical_Writer_Portfolio/wiki/Healthcare-Management-Software-%E2%80%90-Writing-Sample-%E2%80%90-Technical-Writer).
+- **File:** [Healthcare Management Software](https://github.com/Anandh4learning/Technical_Writer_Portfolio/wiki/Healthcare-Management-Software:-User-Guide).
 
 ### Sample 2: How to Create a Repository on Github
 
